@@ -27,8 +27,8 @@ Ensure you have Python 3.x installed. The following packages are required:
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/EsraaMeslam/-Real-Time-Eye-Tracking-and-Position-Estimation-Using-OpenCV-and-MediaPipe-.git
-    cd Real-Time-Eye-Tracking-and-Position-Estimation-Using-OpenCV-and-MediaPipe
+    git clone https://github.com/Prakhar9549/Real-Time-Eye-Tracking-and-Position-Estimation.git
+    cd Real-Time-Eye-Tracking-and-Position-Estimation
     ```
 
 
